@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.2.0",
+  "description": "Static personal portfolio.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spcbrn/PORTFOLIO-static-v2.git"
+  },
+  "author": "Christopher Lemke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spcbrn/PORTFOLIO-static-v2/issues"
+  },
+  "homepage": "https://github.com/spcbrn/PORTFOLIO-static-v2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
